@@ -5,6 +5,7 @@ How is the staging area different from the working directory and the repository?
 The staging area is an intermediary in git. it does not hold files permanently
 
 What value do you think it offers?
+Allows you to decide which changes to save and when.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
