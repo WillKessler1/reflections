@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+  
+IT REMOVED ALL PARTS OF THE TWO FILES BEING COMPARED THAT WERE THE SAME, MAKING THE DIFFERENCES BETWEEN THE TWO MORE OBVIOUS AND EASIER TO IDENTIFY.
+
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+  IT CAN MAKE IMPLEMENTING POTENTIAL CHANGES EASIER FOR TRIAL RUNS. SAVES SPACE.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+ 
+CON: IT CAN BE EASY TO FORGET TO MAKE A COMMIT AT A REASONABLE TIME. TIME CONSUMING TO STOP YOUR WORK FLOW TO MAKE A COMMIT.
+PRO: YOU CAN MAKE COMMITS AT LOGICAL AND RELEVENT TIMES.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    
+IT ALLOWS CODEPENDENCIES TO BE TRACKED SIMULTANEOUSLY.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    
+GIT LOG LETS YOU VIEW THE HISTORY OF ALL COMMITS ON A FILE. GIT DIFF ALLOWS YOU TO VIEW THE ADDITIONS/REMOVALS BETWEEN TWO VERSIONS OF THE FILE.
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+ 
+IT INTRODUCES THE CONFIDENCE THAT YOU CAN EASILY REVERT TO A CORRECTLY WORKING VERSION, WITHOUT HAVING TO MEMORIZE SPECIFIC CHANGES.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Tracking version control for R projects
