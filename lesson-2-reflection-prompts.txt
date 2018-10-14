@@ -1,6 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 a hidden .git directory is added which holds the repository metadata
+
 How is the staging area different from the working directory and the repository?
+The staging area is an intermediary in git. it does not hold files permanently
+
 What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
