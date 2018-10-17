@@ -20,6 +20,8 @@ shows how branches relate to each other and to specific commits and points in ti
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+It incorporates the commits from two or more different versions. The tree lets
+you see the process and relations. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
