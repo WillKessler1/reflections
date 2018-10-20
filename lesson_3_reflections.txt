@@ -29,4 +29,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Make a new branch if you are collaborating with others, so the master is not changed
+	out from under other people. working directly on master makes sense when you work alone
+	or aren't making significant base changes.
